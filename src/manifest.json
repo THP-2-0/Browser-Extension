@@ -1,0 +1,9 @@
+{
+  "manifest_version": 2,
+  "name": "UX Rulz",
+  "version": "0.0.1",
+  "description": "UX ALL THE RULZ",
+  "browser_action": {
+    "default_popup": "popup.html"
+  }
+}
